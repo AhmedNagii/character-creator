@@ -29,11 +29,12 @@
 .characterWrapper {
   width: 40%;
   position: fixed;
-  top: 80px;
   right: 0;
- 
+  top:0
 }
 
 .controlColumn {
   width: 50%;
 }
+
+
